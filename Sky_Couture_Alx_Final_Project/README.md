@@ -1,5 +1,5 @@
 
-# Sky~Couture (MEARN STACK) E-commerce website
+# Sky~Couture (MERN STACK) E-commerce website
 
 ## Overview
 
